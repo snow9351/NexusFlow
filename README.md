@@ -1,10 +1,10 @@
-# Proxima - A Project Management Website
+# NexusFlow- A Project Management Website
 
-Proxima is a modern project management website built using the MERN stack, Context API, JWT, and TailwindCSS. With a sleek and intuitive interface, users can easily create, update, and delete their projects. Proxima also features a secure protected route in the frontend, ensuring user data remains safe and secure.
+NexusFlowis a modern project management website built using the MERN stack, Context API, JWT, and TailwindCSS. With a sleek and intuitive interface, users can easily create, update, and delete their projects. NexusFlowalso features a secure protected route in the frontend, ensuring user data remains safe and secure.
 
 ## Features
 
-Proxima comes packed with a variety of useful features, including:
+NexusFlowcomes packed with a variety of useful features, including:
 
 - Simplify project management tasks: Perform tasks such as creating, updating, and deleting projects with ease using the app's user-friendly interface.
 - High-level security: Enjoy peace of mind with the app's highly secure JWT authentication and frontend route protection, which safeguards your data.
@@ -23,7 +23,7 @@ Proxima comes packed with a variety of useful features, including:
 
 ## Installation
 
-1. Clone the client repository using git clone https://github.com/KeyaAkter/proxima-client
+1. Clone the client repository using git clone https://github.com/snow9351/NexusFlow
 2. Clone the server repository using git clone https://github.com/KeyaAkter/proxima-server
 3. Install the required dependencies by running `npm install `or `npm i` in both the client and server directories.
 4. Create a `.env` file in the root directory of server and add the following variables:
@@ -39,5 +39,4 @@ Proxima comes packed with a variety of useful features, including:
 ## Links
 
 - [Live Demo](https://proxima-project.netlify.app/)
-- [Front-End Repository](https://github.com/KeyaAkter/proxima-client)
-- [Back-End Repository](https://github.com/KeyaAkter/proxima-server)
+- [https://github.com/snow9351/NexusFlow](https://github.com/snow9351/NexusFlow)
